@@ -14,7 +14,7 @@ from flask import Flask, render_template, request, jsonify
 # Load your env variables
 load_dotenv(find_dotenv())
 # DB Configuration
-client = MongoClient('mongodb+srv://vamsinadh2000:psVlg3Q0JGiEn0eD@agelessaide.cvnocpf.mongodb.net/?retryWrites=true&w=majority')
+client = MongoClient('mondb_url')
 chat_db = client['UNH_chat_bot']
 conversations = chat_db['conversations'] 
 
