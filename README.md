@@ -4,6 +4,11 @@
 ## Overview
 The University of New Haven FAQ Chatbot is a sophisticated tool designed to provide quick and accurate responses to student inquiries. Utilizing LangChain, a large language model, and Pinecone, a vector database, this chatbot stands out in its efficiency and reliability. Check out the project [here](https://github.com/VAMSINADH2000/AI-UNH-FAQ-BOT).
 
+![](Screenshot1.png) 
+
+![](Screenshots2.png)
+
+
 ## App Architecture
 The architecture of the application ensures seamless integration of various technologies for an optimal user experience.
 
@@ -74,4 +79,5 @@ If issues occur, check:
 - Validity of Pinecone and OpenAI API keys.
 
 ## Conclusion
-This  provides a detailed guide for setting up and running the University of New Haven FAQ Chatbot. For support or to report issues, please contact the development team.
+This  provides a detailed guide for setting up and running the University of New Haven FAQ Chatbot. For support or queries,  contact [Krishna Vamsi Nadh](https://www.linkedin.com/in/krishnavamsinadh/).
+
